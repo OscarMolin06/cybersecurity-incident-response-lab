@@ -1,0 +1,6 @@
+Sep 18 00:14:20 sec-srv sshd[4010]: Accepted password for user admin from 192.168.1.50 port 44810 ssh2
+Sep 18 00:14:22 sec-srv sshd[4012]: Failed password for invalid user admin from 192.168.1.105 port 44821 ssh2
+Sep 18 00:14:25 sec-srv sshd[4015]: Failed password for invalid user admin from 192.168.1.105 port 44825 ssh2
+Sep 18 00:14:28 sec-srv sshd[4018]: Failed password for invalid user root from 192.168.1.105 port 44830 ssh2
+Sep 18 00:14:31 sec-srv sshd[4022]: Failed password for invalid user root from 192.168.1.105 port 44835 ssh2
+Sep 18 00:14:35 sec-srv sshd[4026]: Connection closed by authenticating user root 192.168.1.105 port 44840 [preauth]
