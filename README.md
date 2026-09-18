@@ -29,11 +29,3 @@ A practical cybersecurity lab documenting threat analysis, log examination, vuln
 * **Frameworks & Standards:** NIST Incident Handling Guide (SP 800-61), OWASP Top 10, MITRE ATT&CK.
 
 
-
-## Sample Incident Log Analysis
-
-Example of isolated malicious log entry parsed during threat investigation:
-
-Sep 18 00:14:22 sec-srv sshd[4012]: Failed password for invalid user admin from 192.168.1.105 port 44821 ssh2
-Sep 18 00:14:25 sec-srv sshd[4015]: Failed password for invalid user admin from 192.168.1.105 port 44825 ssh2
-Sep 18 00:14:28 sec-srv sshd[4018]: Failed password for invalid user root from 192.168.1.105 port 44830 ssh2
